@@ -6,10 +6,10 @@ This project showcases my journey, skills, and projects in a captivating digital
 
 ## Features
 
-- **Sleek Design:** Immerse yourself in a visually stunning experience designed to leave a lasting impression.
-- **Responsive Layout:** Seamlessly adapt to various screen sizes, ensuring an optimal viewing experience across devices.
-- **Project Showcase:** Explore a curated selection of my projects, each highlighting my expertise and creativity.
-- **Interactive Elements:** Engage with interactive elements that invite exploration and interaction.
+- **Sleek Design:**
+- **Responsive Layout:**
+- **Project Showcase:** 
+- **Interactive Elements:**
 
 ## Technologies Used
 
