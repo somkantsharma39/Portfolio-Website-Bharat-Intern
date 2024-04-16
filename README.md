@@ -6,10 +6,10 @@ This project showcases my journey, skills, and projects in a captivating digital
 
 ## Features
 
-- **Sleek Design:**
-- **Responsive Layout:**
-- **Project Showcase:** 
-- **Interactive Elements:**
+- **Sleek Design**
+- **Responsive Layout**
+- **Project Showcase** 
+- **Interactive Elements**
 
 ## Technologies Used
 
