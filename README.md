@@ -14,7 +14,7 @@ This project showcases my journey, skills, and projects in a captivating digital
 ## Technologies Used
 
 - HTML5
-- CSS3 (with Sass for enhanced styling)
+- CSS3
 - Responsive Design Techniques
 
 ## Contribution
